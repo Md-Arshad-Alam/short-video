@@ -20,7 +20,7 @@ $ npm start
 
 # Preview
 
-## [🌐 See Live](https://shortapp.netlify.app/)
+## [🌐 See Live]https://short-video-nine.vercel.app/
 
 ![](/preview.png)
 
